@@ -1,2 +1,2 @@
 # Drum-Machine
-http://127.0.0.1:5500/Index.html
+geoxing32.github.io/Drum-Machine/
